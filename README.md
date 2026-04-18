@@ -1,4 +1,4 @@
-# 🤸 PostureAI — Real-time Exercise Form Correction
+# 🤸 Spotter — Real-time Exercise Form Correction
 
 Computer vision posture checker for **Plank**, **Squat**, and **Bicep Curl**
 using **MediaPipe Pose** + **FastAPI** + **React**.
